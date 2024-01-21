@@ -35,9 +35,6 @@ This Discord bot is designed to log mentions of roles, including `@everyone` and
 - **Allowed Guilds:**
   - Adjust the `allowed_guild_ids` set to include the server IDs where you want the bot to operate.
 
-- **Prefix:**
-  - The bot command prefix is set to `'!'`. Modify the `command_prefix` in the script if you prefer a different prefix.
-
 ## Notes
 
 - **Token Security:**
