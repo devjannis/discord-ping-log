@@ -1,4 +1,4 @@
-# Discord Ping Logger Bot
+# Discord Ping Log Bot
 
 ## Overview
 
