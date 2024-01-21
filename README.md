@@ -43,9 +43,6 @@ This Discord bot is designed to log mentions of roles, including `@everyone` and
 - **Error Handling:**
   - Ensure the log channel exists; otherwise, errors will be printed to the console.
 
-- **Magic Numbers:**
-  - Replace magic numbers with constants for better configurability.
-
 ## Contributing
 
 Feel free to contribute by submitting issues, feature requests, or pull requests.
