@@ -52,7 +52,3 @@ This Discord bot is designed to log mentions of roles, including `@everyone` and
 ## Contributing
 
 Feel free to contribute by submitting issues, feature requests, or pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
